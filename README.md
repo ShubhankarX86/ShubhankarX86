@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ShubhankarX86
-- 👀 I’m interested in Java and Python programming
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m @ShubhankarSX86
+- 👀 I’m interested in Java, C++, JavaScript and Python programming and full-stack web-dev
+- 🌱 I’m currently learning web-dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...my email ID: shubhankars402@gmail.com
 
